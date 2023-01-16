@@ -8,6 +8,6 @@ class AdministrationlistesController extends Controller
 {
     public function index()
     {
-        return view('administrationlistes');
+        return view('administrationlistes'); 
     }
 }
